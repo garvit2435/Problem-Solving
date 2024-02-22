@@ -1,2 +1,2 @@
 # Problem-Solving
-Collection of LeetCode questions with solutions from my approach
+Collection of LeetCode and GeeksforGeeks questions with solutions from my approach
