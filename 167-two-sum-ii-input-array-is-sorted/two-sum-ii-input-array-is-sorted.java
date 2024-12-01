@@ -13,7 +13,7 @@ class Solution {
                 low++;
             }
         }
-        return new int[]{low + 1, high + 1};
+        return new int[]{-1, -1};
         
     }
 }
